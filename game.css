@@ -1,0 +1,80 @@
+/*distribucion del espacio*/
+
+.choice-container {
+    display: flex;
+    margin-bottom: 0.8rem;
+    width: 100%;
+    font-size: 1.8rem;
+    background-color: aliceblue;
+    border-radius: 1rem;
+}
+
+.choice-container:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+    transition: transform 250ms;
+    box-shadow: 1px 1.2px 1px rgba(63, 64, 19, 0.34);
+}
+
+.choice-prefix {
+    padding: 2rem 2.5rem;
+    background-color: #3f3f05;
+    color: white;
+    border-bottom-left-radius: 1rem;
+    border-top-left-radius: 1rem;
+}
+
+
+
+.choice-text {
+    padding: 1.5rem;
+    width: 100%;
+    font-family: cursive;
+}
+
+/* estilos */
+.correct {
+    background: linear-gradient(32deg, rgb(11, 223, 36) 0%, rgb(41, 232, 111) 100%)
+}
+
+.incorrect {
+    background: linear-gradient(32deg, rgba(230, 29, 29, 1) 0%, rgba(224, 11, 11, 1) 100%)
+}
+
+/* Espacio entre los elementos del hud*/
+#hud {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hud-prefix{
+    text-align: center;
+    font-size: 2rem;
+    
+}
+
+
+.hud-main-text {
+    text-align: center;
+    margin-top: -20px;
+    font-size: 70px;
+
+}
+
+/*level bar*/
+
+#progressBar {
+    width: 20rem;
+    height: 3rem;
+    border: 0.2rem solid rgb(139, 108, 6);
+    margin-top: 3rem;
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+#progressBarFull {
+    height: 100%;
+    background: #3f3f05;
+    width: 0%;
+}
+

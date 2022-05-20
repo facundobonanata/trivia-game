@@ -1,0 +1,156 @@
+:root {
+    background-color: rgba(0, 0, 0, 0.297);
+    font-size: 63%;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+h1 {
+    font-size: 13rem;
+    color: rgba(233, 233, 10, 0.555);
+    font-family: cursive;
+    text-shadow: 1px 1.2px 1px rgba(251, 222, 5, 0);
+    z-index: 1;
+}
+
+h2 {
+  font-size: 2.2rem;
+  margin-bottom: 3rem;
+  font-weight: 50rem;
+  font-family: cursive;
+  text-shadow: 1px 1.2px 1px rgba(129, 114, 7, 0.916);
+
+
+}
+
+#big-title {
+    position: fixed;
+    top: 50px;
+    z-index: 1;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100rem;
+    margin: 0 auto;
+}
+
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-center {
+    justify-content: center;
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+.btn {
+    font-size: 1.7rem;
+    padding: 5px 18px;
+    width: 23rem;
+    text-align: center;
+    border: 0.2rem solid #8b8b03e7;
+    border-radius: 5rem;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    color: #3f3f05;
+    background-color: rgba(246, 248, 162, 0.34);
+  }
+  
+  .btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0.1rem 0.1rem 0 rgba(5, 7, 8, 0.301);
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+  }
+
+  
+  .retirarse {
+      position: absolute;
+      top: 25px;
+      left: 15px;
+  }
+
+  form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 250px;
+  }
+  
+  #your-score {
+    font-size: 50px;
+    text-shadow: -1px 1.2px 1px rgb(0, 0, 0);
+    color: rgba(163, 172, 45, 0.555);
+    margin-bottom: -25px;
+    position: fixed;
+    top: 90px;
+    font-family: cursive;
+
+  }
+  
+  #finalScore {
+    position: fixed;
+    top: 140px;
+    font-size: 12rem;
+    color: rgba(233, 233, 10, 0.817);
+    margin-bottom: 70px;
+    font-family: cursive;
+    text-shadow: -1px 1.2px 1px #000;
+  }
+  
+  input {
+    margin-bottom: 3rem;
+    width: 21rem;
+    margin-top: 15px;
+    border-radius: 10px;
+    padding: 1.5rem;
+    border: none;
+    box-shadow: rgb(176 180 183) 0px 0.1px 3.5px;
+    font-size: 20px;
+  }
+  
+  input::placeholder {
+    color: #aaa;
+  }
+  
+  input:focus {
+    outline: none;
+  }
+
+  #error {
+    color: rgb(249, 0, 0);
+    font-size: 15px;
+    margin-bottom: 20px;
+    margin-top: -25px;
+  }
+
+  
+
+  
+  
+
+
+

@@ -1,0 +1,276 @@
+ [
+    {    
+        "category": "historia",
+        "level": "dificil",
+        "question": "En qué año Colón descubrió América?",
+        "choice1": "1942",
+        "choice2": "1492",
+        "choice3": "1412",
+        "choice4": "1340",
+        "answer": 2
+    },
+
+    {
+        "category": "historia",
+        "level": "dificil",
+        "question": "En qué año comenzó la Primera Guerra Mundial?",
+        "choice1": "1914",
+        "choice2": "1918",
+        "choice3": "1916",
+        "choice4": "1945",
+        "answer": 1
+    },
+    
+    {
+        "question": "Cuál es el antiguo nombre de San Petesburgo?",
+        "level": "dificil",
+        "choice1": "San Petesburgo",
+        "choice2": "Stalingrado",
+        "choice3": "Leningrado",
+        "choice4": "Burgos",
+        "answer": 3
+    },
+
+    {
+        "category": "historia",
+        "level": "dificil",
+        "question": "Quién fue el primer presidente de USA?",
+        "choice1": "George Washington",
+        "choice2": "Thomas Jefferson",
+        "choice3": "Abraham Lincoln",
+        "choice4": "John Adams",
+        "answer": 1
+    },
+
+    {
+        "category": "historia",
+        "level": "dificil",
+        "question": "En qué año cayó el imperio romano?",
+        "choice1": "572",
+        "choice2": "27 a.c",
+        "choice3": "337",
+        "choice4": "476",
+        "answer": 4
+    },
+
+    {
+        "category": "historia",
+        "level": "dificil",
+        "question": "Los cromosomas estan formados por:",
+        "choice1": "ADN",
+        "choice2": "ARN",
+        "choice3": "Proteinas",
+        "choice4": "Lisosomas",
+        "answer": 1
+    },
+
+    {
+        "category": "ciencia",
+        "level": "muy facil",
+        "question": "La velocidad de la luz es:",
+        "choice1": "300.000 m/s",
+        "choice2": "300.000 km/h",
+        "choice3": "250.000 m/s",
+        "choice4": "250.000 km/h",
+        "answer": 2
+    },
+
+    {
+        "category": "ciencia",
+        "level": "muy facil",
+        "question": "Cuál es el primer paso del metodo científico",
+        "choice1": "Formular hipotesis",
+        "choice2": "Identificar el problema",
+        "choice3": "Experimentar",
+        "choice4": "Trabajo de campo",
+        "answer": 2
+    },
+
+    {
+        "category": "ciencia",
+        "level": "muy facil",
+        "question": "Que tipo de galaxia es la via lactea",
+        "choice1": "eliptica",
+        "choice2": "espiral",
+        "choice3": "irregular",
+        "choice4": "lenticular",
+        "answer": 2
+    },
+
+    {
+        "category": "ciencia",
+        "level": "muy facil",
+        "question": "Que proporciona la mitocondria a un organismo",
+        "choice1": "Energía",
+        "choice2": "Oxigeno",
+        "choice3": "Azucares",
+        "choice4": "Proteinas",
+        "answer": 1
+    },
+
+    {
+        "category": "arte",
+        "level": "muy dificil",
+        "question": "Quien pinto La Gioconda",
+        "choice1": "Tiziano",
+        "choice2": "Miguel Angel",
+        "choice3": "Pablo Picasso",
+        "choice4": "Leonardo da Vinci",
+        "answer": 4
+    },
+
+    {
+        "category": "arte",
+        "level": "muy dificil",
+        "question": "Quien de estos artistas no era español:",
+        "choice1": "Rufino Tamayo",
+        "choice2": "Pablo Picasso",
+        "choice3": "El greco",
+        "choice4": "Salvador Dali",
+        "answer": 1
+    },
+    
+    {
+        "category": "arte",
+        "level": "muy dificil",
+        "question": "En que siglo nacio Van Gogh",
+        "choice1": "XIX",
+        "choice2": "XX",
+        "choice3": "XVIII",
+        "choice4": "XVII",
+        "answer": 1
+    },
+
+    {
+        "category": "arte",
+        "level": "muy dificil",
+        "question": "En que siglo inicio el renacimiento",
+        "choice1": "XVI",
+        "choice2": "XIV",
+        "choice3": "XV",
+        "choice4": "XIII",
+        "answer": 3
+    },
+
+    {
+        "category": "arte",
+        "level": "muy dificil",
+        "question": "En que año nacio Pablo Picasso",
+        "choice1": "1881",
+        "choice2": "1873",
+        "choice3": "1730",
+        "choice4": "1798",
+        "answer": 1
+    },
+
+    {
+        "category": "deportes",
+        "level": "moderado",
+        "question": "Cada cuantos años de realizan los juegos olimpicos",
+        "choice1": "4",
+        "choice2": "3",
+        "choice3": "2",
+        "choice4": "1",
+        "answer": 1
+    },
+
+    {
+        "category": "deportes",
+        "level": "moderado",
+        "question": "Que deporte no usa pelota",
+        "choice1": "golf",
+        "choice2": "tenis",
+        "choice3": "hockey",
+        "choice4": "polo",
+        "answer": 3
+    },
+
+    {
+        "category": "deportes",
+        "level": "moderado",
+        "question": "Cuantos jugadores tiene un equipo de beisbol",
+        "choice1": "10",
+        "choice2": "9",
+        "choice3": "8",
+        "choice4": "7",
+        "answer": 2
+    },
+
+    {
+        "category": "deportes",
+        "level": "moderado",
+        "question": "En boxeo TKO significa:",
+        "choice1": "Noqueo tecnico",
+        "choice2": "Expulsion tecnica",
+        "choice3": "Krankout tecnico",
+        "choice4": "Empate",
+        "answer": 1
+    },
+
+    {
+        "category": "deportes",
+        "level": "moderado",
+        "question": "El jugador de futbol con mas goles en la historia es:",
+        "choice1": "Lionel Messi",
+        "choice2": "Cristiano Ronaldo",
+        "choice3": "Pele",
+        "choice4": "Ronaldinho",
+        "answer": 2
+    },
+
+    {
+        "category": "geografia",
+        "level": "facil",
+        "question": "Cual es la montaña mas alta?",
+        "choice1": "Makalu",
+        "choice2": "K2",
+        "choice3": "Himalaya",
+        "choice4": "Monte Everest",
+        "answer": 4
+    },
+
+    {
+        "category": "geografia",
+        "level": "facil",
+        "question": "La ciudad mas poblada es:",
+        "choice1": "Pekin",
+        "choice2": "Tokyo",
+        "choice3": "New York",
+        "choice4": "Shanghai",
+        "answer": 2
+    },
+
+    {
+        "category": "geografia",
+        "level": "facil",
+        "question": "A que pais pertenece el Gran Cañon",
+        "choice1": "Canada",
+        "choice2": "Mexico",
+        "choice3": "USA",
+        "choice4": "Colombia",
+        "answer": 3
+    },
+
+    {
+        "category": "geografia",
+        "level": "facil",
+        "question": "En que dos territorios se encuentran las Cataratas del Iguazu",
+        "choice1": "Brasil-Paraguay",
+        "choice2": "Brasil-Uruguay",
+        "choice3": "Argentina-Brasil",
+        "choice4": "Argentina-Uruguay",
+        "answer": 3
+    },
+
+    {
+        "category": "geografia",
+        "level": "facil",
+        "question": "Que porcentaje de la superficie terrestre es agua",
+        "choice1": "70%",
+        "choice2": "40%",
+        "choice3": "60%",
+        "choice4": "80%",
+        "answer": 1
+    }
+    
+]
